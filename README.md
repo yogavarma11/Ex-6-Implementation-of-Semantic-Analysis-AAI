@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-6: Implementation of Semantic Analysis </H1>
 
-### Name: 
-### Register Number:
+### Name: Yogavarma B
+### Register Number: 2305002029
 
 ## Aim: 
 
@@ -59,6 +59,26 @@ print ( "Antonyms : " ,set(antonyms) )
 
 ## Output:
 
+```
+Enter a sentence: Old men dislike hot summer
+```
+
+```
+[('Old', 'NNP'), ('men', 'NNS'), ('dislike', 'VB'), ('hot', 'JJ'), ('summer', 'NN')]
+```
+
+```
+Synonyms :  {'summer', 'one-time', 'previous', "gentleman's_gentleman", 'mankind', 'summertime', 'erstwhile', 'gentleman',
+'blistering', 'live', 'honest-to-god', 'dislike', 'red-hot', 'Old', 'human_beings', 'disfavor', 'valet_de_chambre',
+'raging', 'workforce', 'world', 'hands', 'former', 'Man', 'humanity', 'hot', 'military_personnel', 'homo', 'sometime',
+'sure-enough', 'work_force', 'disapproval', 'human', 'men', 'serviceman', 'humankind', 'disfavour', 'adult_male', 'man',
+'older', 'human_being', 'onetime', 'quondam', 'valet', 'piece', 'human_race', 'spicy', 'old', 'honest-to-goodness',
+'manpower', 'military_man', 'Isle_of_Man', 'humans'}
+```
+
+```
+Antonyms :  {'young', 'woman', 'new', 'liking', 'like', 'cold', 'civilian'}
+```
 ---
 
 ## Result:
